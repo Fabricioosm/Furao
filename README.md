@@ -14,9 +14,9 @@ O objetivo do projeto foi criar uma página Web utilizando HTML5 e CSS3 para um 
 
 ## 🚀 Estrutura do Projeto
 - ├── index.html - Estrutura da página
-  |
+- |
 - ├── ├── img/
-  |   └── Furão de pés pretos_wikimedia.jpg - Imagem do furão 
+- |   └── Furão de pés pretos_wikimedia.jpg - Imagem do furão 
 - └── README.md - Descrição do projeto
 
 
