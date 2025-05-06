@@ -13,9 +13,12 @@ O objetivo do projeto foi criar uma página Web utilizando HTML5 e CSS3 para um 
 - CSS3
 
 ## 🚀 Estrutura do Projeto
-
-- ├── Furão de pés pretos_wikimedia.jpg - imagem utiliza
 - ├── index.html - Estrutura da página
+  |
+- ├── ├── img/
+  |   └── Furão de pés pretos_wikimedia.jpg - Imagem do furão 
+- └── README.md - Descrição do projeto
+
 
 ## 🌐 Acesso ao Projeto
 https://fabricioosm.github.io/Furao/
